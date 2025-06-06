@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shubhanjali</h1>
+<h3 align="center">A passionate Learner, Developer, and Final Year Student at IIITA 🇮🇳</h3>
 
-<!--
-**Shubhanjali01/Shubhanjali01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubhanjali01&show_icons=true&theme=tokyonight" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍🎓 About Me
+
+- 🎓 Final Year B.Tech Student, Information Technology at IIITA  
+- 🌱 Currently learning: `DSA`, `Machine Learning`, `Docker`, `Deep Learning`, `Web Development`
+- 👩‍💻 Exploring Open Source and Backend Development
+- 🎯 Goal: Land a great opportunity in Tech and build impactful solutions
+- ✨ Fun Fact: I'm passionate about creativity, singing, and self-learning!
+
+---
+
+### 🛠️ Technologies & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shubhanjali01&theme=tokyonight&hide_border=false" />
+</p>
+
+---
+
+### 🧠 Currently Working On
+
+- 🐍 Image Captioning Project with Deep Learning
+- ☁️ Cloud Microservices with Flask + React + MongoDB + Docker
+- 📊 Interview Preparation with DSA and Core CS
+
+---
+
+### 📫 Connect with Me
+
+- 📬 [LinkedIn](https://www.linkedin.com/in/shubhanjaliambedkarnagarup/)
+- 🌐 [Portfolio (if you have one)](https://your-portfolio-link.com)
+
+
+> ⭐ _“Keep pushing forward — one line of code at a time!”_
+"# Shubhanjali01" 
+
+
+
+
