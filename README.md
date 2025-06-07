@@ -4,9 +4,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shubhanjali01&show_icons=true&theme=tokyonight" />
 </p>
-
 ---
-
 ### 👩‍🎓 About Me
 
 - 🎓 Final Year B.Tech Student, Information Technology at IIITA  
@@ -52,12 +50,7 @@
 ### 📫 Connect with Me
 
 - 📬 [LinkedIn](https://www.linkedin.com/in/shubhanjaliambedkarnagarup/)
-- 🌐 [Portfolio (if you have one)](https://your-portfolio-link.com)
 
 
 > ⭐ _“Keep pushing forward — one line of code at a time!”_
 "# Shubhanjali01" 
-
-
-
-
