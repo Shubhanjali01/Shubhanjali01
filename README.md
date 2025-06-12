@@ -43,7 +43,7 @@
 
 - 🐍 Title-  Traffic Forecasting using Spatio‑Temporal data
 - ☁️ Image Caption Generation 
--     Movie Recommender System
+- ☁️ Movie Recommender System
 - 📊 Interview Preparation with DSA and Core CS
 ---
 
