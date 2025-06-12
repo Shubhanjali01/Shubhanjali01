@@ -42,9 +42,12 @@
 ### 🧠 Currently Working On
 
 - 🐍 Title-  Traffic Forecasting using Spatio‑Temporal data
-- ☁️ Image Caption Generation 
-- ☁️ Movie Recommender System
+- ☁️ Neural Approaches for Image Caption Generation 
+- ☁️ Smart Movie Recommender System using Content-Based and Collaborative Filtering
+
+
 - 📊 Interview Preparation with DSA and Core CS
+- Javascript 
 ---
 
 ### 📫 Connect with Me
