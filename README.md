@@ -8,7 +8,7 @@
 ### 👩‍🎓 About Me
 
 - 🎓 Final Year B.Tech Student, Information Technology at IIITA  
-- 🌱 Currently learning: `DSA`, `Machine Learning`, `Docker`, `Deep Learning`, `Web Development`
+- 🌱 Currently learning: `DSA`, `Machine Learning`, , `Deep Learning`,`Natural Language Processing` `Javascript`
 - 👩‍💻 Exploring Open Source and Backend Development
 - 🎯 Goal: Land a great opportunity in Tech and build impactful solutions
 - ✨ Fun Fact: I'm passionate about creativity, singing, and self-learning!
@@ -41,10 +41,10 @@
 
 ### 🧠 Currently Working On
 
-- 🐍 Image Captioning Project with Deep Learning
-- ☁️ Cloud Microservices with Flask + React + MongoDB + Docker
+- 🐍 Title-  Traffic Forecasting using Spatio‑Temporal data
+- ☁️ Image Caption Generation 
+-     Movie Recommender System
 - 📊 Interview Preparation with DSA and Core CS
-
 ---
 
 ### 📫 Connect with Me
@@ -53,4 +53,4 @@
 
 
 > ⭐ _“Keep pushing forward — one line of code at a time!”_
-"# Shubhanjali01" 
+
