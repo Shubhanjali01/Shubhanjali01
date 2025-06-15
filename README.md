@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shubhanjali</h1>
+<h1 align="center">Hi Here Shubhanjali</h1>
 <h3 align="center">A passionate Learner, Developer, and Final Year Student at IIITA 🇮🇳</h3>
 
 <p align="center">
