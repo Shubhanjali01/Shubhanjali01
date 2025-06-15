@@ -22,11 +22,19 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
 </a>
 
+  <a href="https://www.geeksforgeeks.org/cpp/c-plus-plus/ ">
+    <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square" />
+  </a>
 
-  <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square" />
+<a href="https://www.youtube.com/watch?v=HcOc7P5BMi4&t=7s">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
+</a>
+  <a href="  https://www.youtube.com/watch?v=ESnrn1kAD4E&t=5799s">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
+</a>
+<a href="https://www.youtube.com/watch?v=lfmg-EJ8gm4&t=29344s" >
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+</a>
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square" />
   <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
