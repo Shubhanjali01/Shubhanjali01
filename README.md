@@ -1,9 +1,3 @@
-<h1 align="center">Hi Here Shubhanjali</h1>
-<h3 align="center">A passionate Learner, Developer, and Final Year Student at IIITA 🇮🇳</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubhanjali01&show_icons=true&theme=tokyonight" />
-</p>
 ---
 ### 👩‍🎓 About Me
 
@@ -14,6 +8,14 @@
 - ✨ Fun Fact: I'm passionate about creativity, singing, and self-learning!
 
 ---
+
+<h1 align="center">Hi Here Shubhanjali</h1>
+<h3 align="center">A passionate Learner, Developer, and Final Year Student at IIITA 🇮🇳</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubhanjali01&show_icons=true&theme=tokyonight" />
+</p>
+
 
 ### 🛠️ Technologies & Tools
 
