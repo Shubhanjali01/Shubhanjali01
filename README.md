@@ -1,5 +1,5 @@
----
-### 👩‍🎓 About Me
+
+<h1> About Me</h1>
 
 - 🎓 Final Year B.Tech Student, Information Technology at IIITA  
 - 🌱 Currently learning: `DSA`, `Machine Learning`, , `Deep Learning`,`Natural Language Processing` `Javascript`
@@ -7,7 +7,6 @@
 - 🎯 Goal: Land a great opportunity in Tech and build impactful solutions
 - ✨ Fun Fact: I'm passionate about creativity, singing, and self-learning!
 
----
 
 <h1 align="center">Hi Here Shubhanjali</h1>
 <h3 align="center">A passionate Learner, Developer, and Final Year Student at IIITA 🇮🇳</h3>
