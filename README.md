@@ -1,7 +1,7 @@
 
 <h1> About Me</h1>
 
-- 🎓 Final Year B.Tech Student, Information Technology at IIITA  
+- 🎓 Final Year B.Tech Student, Information Technology at IIIT Allahabad Uttar Pradesh India  
 - 🌱 Currently learning: `DSA`, `Machine Learning`, , `Deep Learning`,`Natural Language Processing` `Javascript`
 - 👩‍💻 Exploring Open Source and Backend Development
 - 🎯 Goal: Land a great opportunity in Tech and build impactful solutions
@@ -57,8 +57,6 @@
 - 🐍 Title-  Traffic Forecasting using Spatio‑Temporal data
 - ☁️ Neural Approaches for Image Caption Generation 
 - ☁️ Smart Movie Recommender System using Content-Based and Collaborative Filtering
-
-
 - 📊 Interview Preparation with DSA and Core CS
 - Javascript 
 ---
