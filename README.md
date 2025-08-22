@@ -1,15 +1,15 @@
 
 <h1> About Me</h1>
 
-- 🎓 Final Year B.Tech Student, Information Technology at IIIT Allahabad Uttar Pradesh India  
-- 🌱 Currently learning: `DSA`, `Machine Learning`, , `Deep Learning`,`Natural Language Processing` `Javascript`
-- 👩‍💻 Exploring Open Source and Backend Development
+- 🎓 Myself Shubhanjali B.Tech Student, Information Technology at IIIT Allahabad Uttar Pradesh India  
+- 🌱 Currently learning: `DSA`, `Matrix`,`Arrays`,'`Operating System` target to finish 29 Aug 1 week Work.
+- 👩‍💻 Exploring JavaScript and Backend Development
 - 🎯 Goal: Land a great opportunity in Tech and build impactful solutions
 - ✨ Fun Fact: I'm passionate about creativity, singing, and self-learning!
 
 
-<h1 align="center">Hi Here Shubhanjali</h1>
-<h3 align="center">A passionate Learner, Developer, and Final Year Student at IIITA 🇮🇳</h3>
+<h1 align="center">Hi Myself Shubhanjali</h1>
+<h3 align="center">A passionate Learner, Developer, and Graduate IIITA 2025 🇮🇳</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shubhanjali01&show_icons=true&theme=tokyonight" />
@@ -52,14 +52,11 @@
 
 ---
 
-### 🧠 Currently Working On
+### 🧠 Currently Working On Interview Preparation
 
-- 🐍 Title-  Traffic Forecasting using Spatio‑Temporal data
-- ☁️ Neural Approaches for Image Caption Generation 
-- ☁️ Smart Movie Recommender System using Content-Based and Collaborative Filtering
-- 📊 Interview Preparation with DSA and Core CS
-- Javascript 
----
+- DSA, Matrix, Arrays
+- Core Subject : Operating System
+- Development : Javascript Projects
 
 ### 📫 Connect with Me
 
