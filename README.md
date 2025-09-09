@@ -7,6 +7,9 @@
 - 🎯 Goal: Land a great opportunity in Tech and build impactful solutions
 - ✨ Fun Fact: I'm passionate about creativity, singing, and self-learning!
 
+![Profile Views](https://komarev.com/ghpvc/?username=Shubhanjali01&label=Profile%20views&color=0e75b6&style=flat)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Shubhanjali01)
 
 <h1 align="center">Hi Myself Shubhanjali</h1>
 <h3 align="center">A passionate Learner, Developer, and Graduate IIITA 2025 🇮🇳</h3>
@@ -57,10 +60,10 @@
 </a>
 
 <a href="https://www.youtube.com/watch?v=aCJ3YgoolHQ&list=PLDW872573QAb4bj0URobvQTD41IV6gRkx">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy9AoiI2xhZJOYj16gVv9WmmW5OPq9Gyfx43Dg2o4PvXB8xzPjwaCLJXk&s" width ="150"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy9AoiI2xhZJOYj16gVv9WmmW5OPq9Gyfx43Dg2o4PvXB8xzPjwaCLJXk&s" width ="200" height="200"/>
 </a>
 <a href="https://www.youtube.com/watch?v=aCJ3YgoolHQ&list=PLDW872573QAb4bj0URobvQTD41IV6gRkx">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtMn7Ah05CeKi-41ntlvYrt1aU9eyc5jzQIQ&s" width ="150"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtMn7Ah05CeKi-41ntlvYrt1aU9eyc5jzQIQ&s" width ="200" height="200"/>
 </a>
 
 ---
