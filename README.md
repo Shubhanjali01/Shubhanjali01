@@ -45,11 +45,11 @@
 
 ### 😊 Core Courses 
 <a href="https://www.youtube.com/watch?v=aCJ3YgoolHQ&list=PLDW872573QAb4bj0URobvQTD41IV6gRkx">
-  <img  src="https://t4.ftcdn.net/jpg/04/35/09/63/360_F_435096331_KPLyzoToGtUSeTncxCIYnDK4IuSr5afF.webp" width="200" />
+  <img  src="https://t4.ftcdn.net/jpg/04/35/09/63/360_F_435096331_KPLyzoToGtUSeTncxCIYnDK4IuSr5afF.webp" width="150" />
 </a>
 
 <a href="https://www.youtube.com/watch?v=aCJ3YgoolHQ&list=PLDW872573QAb4bj0URobvQTD41IV6gRkx">
-  <img src="C:\Users\shubhi\Desktop\ENGINEERING\MyGithub_profile\Shubhanjali01\dbms.jpeg" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAgE-LL7ipU5EjJkPnzrwzWKwnATzKZ0m-rA&s" width="150"/>
 </a>
 
 <a href="https://www.youtube.com/watch?v=aCJ3YgoolHQ&list=PLDW872573QAb4bj0URobvQTD41IV6gRkx">
