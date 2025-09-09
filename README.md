@@ -45,7 +45,7 @@
 
 ### 😊 Core Courses 
 <a href="https://www.youtube.com/watch?v=aCJ3YgoolHQ&list=PLDW872573QAb4bj0URobvQTD41IV6gRkx">
-  <img src="C:\Users\shubhi\Desktop\ENGINEERING\MyGithub_profile\Shubhanjali01\os.jpeg" />
+  <img src="https://t4.ftcdn.net/jpg/04/35/09/63/360_F_435096331_KPLyzoToGtUSeTncxCIYnDK4IuSr5afF.webp" />
 </a>
 
 <a href="https://www.youtube.com/watch?v=aCJ3YgoolHQ&list=PLDW872573QAb4bj0URobvQTD41IV6gRkx">
