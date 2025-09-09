@@ -42,6 +42,25 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
 </p>
 
+
+### 😊 Core Courses 
+<a href="https://www.youtube.com/watch?v=aCJ3YgoolHQ&list=PLDW872573QAb4bj0URobvQTD41IV6gRkx">
+  <img src="C:\Users\shubhi\Desktop\ENGINEERING\MyGithub_profile\Shubhanjali01\os.jpeg" />
+</a>
+
+<a href="https://www.youtube.com/watch?v=aCJ3YgoolHQ&list=PLDW872573QAb4bj0URobvQTD41IV6gRkx">
+  <img src="C:\Users\shubhi\Desktop\ENGINEERING\MyGithub_profile\Shubhanjali01\dbms.jpeg" />
+</a>
+
+<a href="https://www.youtube.com/watch?v=aCJ3YgoolHQ&list=PLDW872573QAb4bj0URobvQTD41IV6gRkx">
+  <img src="C:\Users\shubhi\Desktop\ENGINEERING\MyGithub_profile\Shubhanjali01\oops.jpeg" />
+</a>
+
+<a href="https://www.youtube.com/watch?v=aCJ3YgoolHQ&list=PLDW872573QAb4bj0URobvQTD41IV6gRkx">
+  <img src="C:\Users\shubhi\Desktop\ENGINEERING\MyGithub_profile\Shubhanjali01\CN`.jpeg" />
+</a>
+
+
 ---
 
 ### 📈 GitHub Stats
