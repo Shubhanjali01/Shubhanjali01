@@ -68,9 +68,9 @@
 ---
 
 ### 📈 Most Used languages
-<p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhanjali01&layout=compact&theme=tokyonight)
-</p>
+
 
 ### 📈 GitHub Stats
 
