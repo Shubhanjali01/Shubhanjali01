@@ -9,7 +9,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shubhanjali01&label=Profile%20views&color=0e75b6&style=flat)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Shubhanjali01)
 
 <h1 align="center">Hi Myself Shubhanjali</h1>
 <h3 align="center">A passionate Learner, Developer, and Graduate IIITA 2025 🇮🇳</h3>
@@ -68,6 +67,10 @@
 
 ---
 
+### 📈 Most Used languages
+<p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhanjali01&layout=compact&theme=tokyonight)
+</p>
 
 ### 📈 GitHub Stats
 
