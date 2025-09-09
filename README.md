@@ -59,8 +59,12 @@
 <a href="https://www.youtube.com/watch?v=aCJ3YgoolHQ&list=PLDW872573QAb4bj0URobvQTD41IV6gRkx">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy9AoiI2xhZJOYj16gVv9WmmW5OPq9Gyfx43Dg2o4PvXB8xzPjwaCLJXk&s" width ="150"/>
 </a>
+<a href="https://www.youtube.com/watch?v=aCJ3YgoolHQ&list=PLDW872573QAb4bj0URobvQTD41IV6gRkx">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtMn7Ah05CeKi-41ntlvYrt1aU9eyc5jzQIQ&s" width ="150"/>
+</a>
 
 ---
+
 
 ### 📈 GitHub Stats
 
