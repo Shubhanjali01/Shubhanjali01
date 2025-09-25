@@ -2,8 +2,7 @@
 <h1> About Me</h1>
 
 - 🎓 Myself Shubhanjali B.Tech Student, Information Technology at IIIT Allahabad Uttar Pradesh India  
-- 🌱 Currently learning: `DSA`, `Matrix`,`Arrays`,'`Operating System` target to finish 29 Aug 1 week Work.
-- 👩‍💻 Exploring JavaScript and Backend Development
+- 🌱 Currently learning: `Comptetive Programming`, `DSA`,`Algorithms`,'`javaScript`,`React`,`Operating System` .
 - 🎯 Goal: Land a great opportunity in Tech and build impactful solutions
 - ✨ Fun Fact: I'm passionate about creativity, singing, and self-learning!
 
@@ -74,12 +73,12 @@
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=Shubhanjali01&theme=tokyonight&hide_border=false)
-<!-- <p>
+<!-- ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=Shubhanjali01&theme=tokyonight&hide_border=false) -->
+<p>
 
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Shubhanjali01&theme=tokyonight&hide_border=false" />
-</p> -->
+</p>
 
 ---
 
