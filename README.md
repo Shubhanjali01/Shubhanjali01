@@ -79,6 +79,19 @@
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Shubhanjali01&theme=tokyonight&hide_border=false" />
 </p>
+--- 
+
+### 📊 Contribution Graph & Achievements
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhanjali01&theme=tokyo-night" />
+</p>
+
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shubhanjali01&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
@@ -94,4 +107,3 @@
 
 
 > ⭐ _“Keep pushing forward — one line of code at a time!”_
-
