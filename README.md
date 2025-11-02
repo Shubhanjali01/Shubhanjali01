@@ -1,16 +1,13 @@
 
 <h1> About Me</h1>
 
-- 🎓 Myself Shubhanjali B.Tech Student, Information Technology at IIIT Allahabad Uttar Pradesh India  
-- 🌱 Currently learning: `Comptetive Programming`, `DSA`,`Algorithms`,'`javaScript`,`React`,`Operating System` .
+- 🎓 A Passionate Full Stack Devloper   
+- 🌱 Currently learning: `Comptetive Programming`, `DSA`,`Algorithms`,'`javaScript`,`React`,`Operating System,C++,DBMS` .
 - 🎯 Goal: Land a great opportunity in Tech and build impactful solutions
 - ✨ Fun Fact: I'm passionate about creativity, singing, and self-learning!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shubhanjali01&label=Profile%20views&color=0e75b6&style=flat)
 
-
-<h1 align="center">Hi Myself Shubhanjali</h1>
-<h3 align="center">A passionate Learner, Developer, and Graduate IIITA 2025 🇮🇳</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shubhanjali01&show_icons=true&theme=tokyonight" />
@@ -42,7 +39,22 @@
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
 </p>
+### 🎯 Primary Goals  
 
+#### 🔹 Frontend  
+<p align="center">
+  <img src="#" width="600" />
+</p>
+
+#### 🔹 Backend  
+<p align="center">
+  <img src="#" width="600" />
+</p>
+
+#### 🔹 Full-stack  
+<p align="center">
+  <img src="#" width="600" />
+</p>
 
 ### 😊 Core Courses 
 <a href="#">
@@ -97,9 +109,9 @@
 
 ### 🧠 Currently Working On Interview Preparation
 
-- Comptetive Programming , DSA , Greedy Algorithm
-- Development : Javascript Projects , React
-- Core Subject : Operating System
+- Comptetive Programming , DSA , Dynamic Programming , Recursion
+- Development : MERN Full stack Devlopment
+- Core Subject : Operating System, C++,DBMS
 
 ### 📫 Connect with Me
 
