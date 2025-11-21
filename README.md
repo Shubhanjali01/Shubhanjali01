@@ -43,22 +43,22 @@
 
 ### 😊 Core Courses 
 <a href="#">
-  <img  src="https://cdn-icons-png.flaticon.com/512/6303/6303588.png" width="100px" height="110px" />
+  <img  src="https://cdn-icons-png.flaticon.com/512/6303/6303588.png"  width="110" height="110" style="object-fit: cover; border-radius: 8px; margin-right: 10px;" />
 </a>
 
 <a href="#">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAgE-LL7ipU5EjJkPnzrwzWKwnATzKZ0m-rA&s" width="100px" height="110px" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAgE-LL7ipU5EjJkPnzrwzWKwnATzKZ0m-rA&s"  width="110" height="110" style="object-fit: cover; border-radius: 8px; margin-right: 10px;" />
 </a>
 
 <a href="#">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS51Sds7XqfIEiG-AjEIuNgfn7IPsd1U0S9JD4ZPXcUXhCqidos0oXnDlk&s"width="100px" height="110px"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS51Sds7XqfIEiG-AjEIuNgfn7IPsd1U0S9JD4ZPXcUXhCqidos0oXnDlk&s" width="110" height="110" style="object-fit: cover; border-radius: 8px; margin-right: 10px;"/>
 </a>
 
 <a href="#">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy9AoiI2xhZJOYj16gVv9WmmW5OPq9Gyfx43Dg2o4PvXB8xzPjwaCLJXk&s" width="100px" height="110px"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy9AoiI2xhZJOYj16gVv9WmmW5OPq9Gyfx43Dg2o4PvXB8xzPjwaCLJXk&s"  width="110" height="110" style="object-fit: cover; border-radius: 8px; margin-right: 10px;"/>
 </a>
 <a href="#">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtMn7Ah05CeKi-41ntlvYrt1aU9eyc5jzQIQ&s"width="100px" height="110px"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtMn7Ah05CeKi-41ntlvYrt1aU9eyc5jzQIQ&s" width="110" height="110" style="object-fit: cover; border-radius: 8px; margin-right: 10px;"/>
 </a>
 
 ---
