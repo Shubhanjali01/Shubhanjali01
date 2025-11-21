@@ -2,7 +2,7 @@
 <h1> About Me</h1>
 
 - 🎓 A Passionate Full Stack Devloper   
-- 🌱 Currently learning: `Comptetive Programming`, `DSA`,`Algorithms`,'`javaScript`,`React`,`Operating System,C++,DBMS` .
+- 🌱 Currently learning: `Comptetive Programming`, `DSA`,`Algorithms`,'`Backend`,`Operating System`,`C++`,`DBMS` .
 - 🎯 Goal: Land a great opportunity in Tech and build impactful solutions
 - ✨ Fun Fact: I'm passionate about creativity, singing, and self-learning!
 
@@ -25,55 +25,40 @@
     <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square" />
   </a>
 
-<a href="https://www.youtube.com/watch?v=HcOc7P5BMi4&t=7s">
+<a href="https://www.w3schools.com/html/">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
 </a>
-  <a href="  https://www.youtube.com/watch?v=ESnrn1kAD4E&t=5799s">
+  <a href="  https://www.w3schools.com/css/">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
 </a>
-<a href="https://www.youtube.com/watch?v=lfmg-EJ8gm4&t=29344s" >
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" >
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
 </a>
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
-</p>
-### 🎯 Primary Goals  
+  <a href=" https://react.dev/learn" >
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square" /></a>
 
-#### 🔹 Frontend  
-<p align="center">
-  <img src="#" width="600" />
-</p>
-
-#### 🔹 Backend  
-<p align="center">
-  <img src="#" width="600" />
-</p>
-
-#### 🔹 Full-stack  
-<p align="center">
-  <img src="#" width="600" />
+  <a href=" https://www.mongodb.com/products/platform/atlas-database" >
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" /></a>
 </p>
 
 ### 😊 Core Courses 
 <a href="#">
-  <img  src="https://cdn-icons-png.flaticon.com/512/6303/6303588.png" width="100" />
+  <img  src="https://cdn-icons-png.flaticon.com/512/6303/6303588.png" width="100px" height="100px" />
 </a>
 
 <a href="#">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAgE-LL7ipU5EjJkPnzrwzWKwnATzKZ0m-rA&s" width="100" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAgE-LL7ipU5EjJkPnzrwzWKwnATzKZ0m-rA&s" width="100px" height="100px" />
 </a>
 
 <a href="#">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS51Sds7XqfIEiG-AjEIuNgfn7IPsd1U0S9JD4ZPXcUXhCqidos0oXnDlk&s" width ="100" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS51Sds7XqfIEiG-AjEIuNgfn7IPsd1U0S9JD4ZPXcUXhCqidos0oXnDlk&s"width="100px" height="100px"/>
 </a>
 
 <a href="#">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy9AoiI2xhZJOYj16gVv9WmmW5OPq9Gyfx43Dg2o4PvXB8xzPjwaCLJXk&s" width ="150" height="300"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy9AoiI2xhZJOYj16gVv9WmmW5OPq9Gyfx43Dg2o4PvXB8xzPjwaCLJXk&s" width="100px" height="100px"/>
 </a>
 <a href="#">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtMn7Ah05CeKi-41ntlvYrt1aU9eyc5jzQIQ&s" width ="200" height="150"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtMn7Ah05CeKi-41ntlvYrt1aU9eyc5jzQIQ&s"width="100px" height="100px"/>
 </a>
 
 ---
@@ -111,7 +96,7 @@
 
 - Comptetive Programming , DSA , Dynamic Programming , Recursion
 - Development : MERN Full stack Devlopment
-- Core Subject : Operating System, C++,DBMS
+- Core Subject : Operating System, C++,DBMS ,CN
 
 ### 📫 Connect with Me
 
