@@ -78,7 +78,7 @@
 
 </details>
 
-### 🛠️ Technologies & Tools
+### 📝 Technologies & Tools Articles
 
 <p>
   <a href="https://www.w3schools.com/python/">
