@@ -72,6 +72,9 @@
 
 ### 📝 Technologies & Tools Articles
 
+<details>
+<summary><b> Here Is Articles</b></summary>
+
 <p>
   <a href="https://www.w3schools.com/python/">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
@@ -96,6 +99,7 @@
   <a href=" https://www.mongodb.com/products/platform/atlas-database" >
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" /></a>
 </p>
+</details>
 
 ### 😊 Core Courses
 
